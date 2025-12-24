@@ -27,3 +27,5 @@ foreach ($file in $files) {
 
 2.1. Результаты для файла 04
 ![04 yara scan](images/2.jpg)
+2.1. Результаты для файла 08
+![08 yara scan](images/3.jpg)
